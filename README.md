@@ -12,8 +12,6 @@ https://codepen.io/michaelhoner/pen/KGRGXe
 
 # Build A Survey Form:
 
-
-
 https://codepen.io/michaelhoner/full/gBjjaW/
 
 
